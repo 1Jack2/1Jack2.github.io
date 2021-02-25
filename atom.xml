@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>ls ~/home/jack/blog</title>
+  <title>ls /home/jack/blog</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://jack3zhang.com/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://jack3zhang.com/"/>
   <updated>2021-02-11T07:35:52.088Z</updated>
-  <id>http://example.com/</id>
+  <id>https://jack3zhang.com/</id>
   
   <author>
     <name>jack</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/02/11/hello-world/"/>
-    <id>http://example.com/2021/02/11/hello-world/</id>
+    <link href="https://jack3zhang.com/2021/02/11/hello-world/"/>
+    <id>https://jack3zhang.com/2021/02/11/hello-world/</id>
     <published>2021-02-11T07:35:52.088Z</published>
     <updated>2021-02-11T07:35:52.088Z</updated>
     
